@@ -99,3 +99,17 @@ Grade: Summa cum laude
 1994 - 1998
 
 Grade: Summa cum laude
+
+
+
+## Code sample
+
+```JavaScript
+function factorial(n){
+  let res = 1;
+  for( let i = 2; i <= n; i++ ) {
+    res = res * i;
+  }
+  return res;
+}
+```
