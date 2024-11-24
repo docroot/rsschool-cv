@@ -1,4 +1,4 @@
 # rsschool-cv
 
 
-## [CV](https://docroot.github.io/rsschool-cv/cv)
+## CV: [MD](https://docroot.github.io/rsschool-cv/cv), [HTML](https://docroot.github.io/rsschool-cv/)
